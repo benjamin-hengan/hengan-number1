@@ -24,5 +24,5 @@ window.CONFIG = {
     }
   },
   // 試算表「公開牆」分頁發布出來的 CSV 連結（只放已審核可公開的回憶）。做好公開牆後貼在這裡。
-  wallCsv: ""
+  wallCsv: "https://docs.google.com/spreadsheets/d/e/2PACX-1vR96i0W2AdTX1CntPWxNd6XkhGhnYwtplspltgSYJg1rod4MsVtFdHuwwZIeKP7hhZM-4wpCtKa1Pjq/pub?gid=1895344402&single=true&output=csv"
 };
